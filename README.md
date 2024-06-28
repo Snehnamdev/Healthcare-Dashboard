@@ -19,3 +19,8 @@ Summary Analysis : Analysis of the trend in cost weight per stay by year with di
 KPIs:
 
 In this report, I have Mentioned all the KPI on the homepage report for easy access. 
+
+# Exploratory Data Analysis on Tech Job using Mysql
+About the Dataset: This Tech job dataset Consists of details of around 1600 companies with 12,000+ job listing.
+
+Objective Our aim of this project is to do thorough Explanatory Data Analysis(EDA) on Tech Jobs & finding the key insights through various dimensions.
